@@ -1,0 +1,106 @@
+##################################
+#  Rugby World Cup 2015 England
+
+Pool A  |  Australia     England    Wales     Fiji     Uruguay
+Pool B  |  South Africa  Samoa      Scotland  Japan    United States
+Pool C  |  New Zealand   Argentina  Tonga     Georgia  Namibia
+Pool D  |  France        Ireland    Italy     Canada   Romania
+
+
+Matchday 1  |  Fri Sep/18 
+Matchday 2  |  Sat Sep/19
+Matchday 3  |  Sun Sep/20
+
+...
+
+Pool A:
+
+Friday, 18 September: England 35-11 Fiji
+Sunday, 20 September: Wales 54-9 Uruguay
+Wednesday, 23 September: Australia 28-13 Fiji
+Saturday, 26 September: England 25-28 Wales
+Sunday, 27 September: Australia 65-3 Uruguay
+Thursday, 1 October: Wales 23-13 Fiji
+Saturday, 3 October: England 13-33 Australia
+Tuesday, 6 October: Uruguay 15-47 Fiji
+Saturday, 10 October: Australia 15-6 Wales
+Saturday, 10 October: England 60-3 Uruguay
+
+...
+
+Pool B: 
+
+Saturday, 19 September South Africa 32-34 Japan
+Sunday, 20 September: Samoa 25-16 United States
+Wednesday, 23 September: Scotland 45-10 Japan
+Saturday, 26 September: South Africa 46-6 Samoa
+Sunday, 27 September: Scotland 39-16 United States
+Saturday, 3 October: Samoa 5-26 Japan
+Saturday, 3 October: South Africa 34-16 Scotland
+Wednesday, 7 October: South Africa 64-0 United States
+Saturday, 10 October: Samoa 33-36 Scotland
+Sunday, 11 October: United States 18-28 Japan
+
+...
+
+Pool C:
+
+Saturday, 19 September: Tonga 10-17 Georgia
+Sunday, 20 September: New Zealand 26-16 Argentina
+Thursday, 24 September: New Zealand 58-14 Namibia
+Friday, 25 September: Argentina 54-9 Georgia
+Tuesday, 29 September: Tonga 35-21 Namibia
+Friday, 2 October: New Zealand 43-10 Georgia
+Sunday, 4 October: Argentina 45-16 Tonga
+Wednesday, 7 October: Namibia 16-17 Georgia
+Friday, 9 October: New Zealand 47-9 Tonga
+Sunday, 11 October: Argentina 64-19 Namibia
+
+...
+
+Pool D: 
+
+Saturday, 19 September: Ireland 50-7 Canada
+Saturday, 19 September: France 32-10 Italy
+Wednesday, 23 September: France 38-11 Romania
+Saturday, 26 September: Italy 23-18 Canada
+Sunday, 27 September: Ireland 44-10 Romania
+Thursday, 1 October: France 41-18 Canada
+Sunday, 4 October: Ireland 16-9 Italy
+Tuesday, 6 October: Canada 15-17 Romania
+Sunday, 11 October: Italy 32-22 Romania
+Sunday, 11 October: France 9-24 Ireland
+
+...
+
+Quarter-Finals:
+
+Saturday, 17 October: South Africa 23-19 Wales
+Saturday, 17 October: New Zealand 62-13 France
+Sunday, 18 October: Ireland 20-43 Argentina
+Sunday, 18 October: Australia 35-34 Scotland
+
+...
+
+Semi-Fianls:
+
+Saturday, 24 October: South Africa 18-20 New Zealand
+Sunday, 25 October: Argentina 15-29 Australia
+
+...
+
+3rd Place Match:
+
+Friday, 30 October: South Africa 24-13 Argentina
+
+...
+
+Final:
+
+Saturday, 31 October: New Zealand 34-17 Australia
+
+...
+
+Winner:
+
+New Zealand 
