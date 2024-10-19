@@ -1,2 +1,4 @@
 # Rugby_WC_Results
-Since 1987, numerous countries have participated in the Rugby World Cup. This dataset shows all those countries and what their best placement was and what year they did it in 
+This shows Each country in each pool of the 2015 Rugby world cup. As well as shows every result of every match in the 2015 Rugby World Cup from the 1st match to the Final.
+Sources:https://github.com/opensport/rugby.db/blob/master/README.md
+Extra Sources to finish the set: https://www.bbc.co.uk/sport/rugby-union/32430465.amp
